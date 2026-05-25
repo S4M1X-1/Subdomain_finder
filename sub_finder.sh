@@ -2,7 +2,7 @@
 
 # =========================================================
 # Simple Subdomain Finder
-# Author: YourName
+# Author: S4m1X
 # Description:
 #   - Downloads a webpage
 #   - Extracts possible subdomains from links
